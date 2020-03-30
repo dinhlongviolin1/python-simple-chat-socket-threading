@@ -16,4 +16,4 @@ Simple Python Chat app using socket and threading
 * Go to Server.py and change `SERVER` to your private IP address
 * Go to Client.py and change `SERVER` to your public IP address
 * Run Server.py on server
-* Run instances of your computer
+* Run instances of Client.py on your computer
