@@ -2,7 +2,7 @@
 Simple Python Chat app using socket and threading
 
 ## Requirement to use this app
-* Have python installed
+* Have python installed (tkinter, socket, threading is built into Python)
 
 ## How to run this app? 
 1. On your computer
